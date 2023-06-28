@@ -1,0 +1,5 @@
+[build]
+  command = "pip install -r requirement.txt && python tela.py" 
+  
+[build.environment]
+  PYTHON_VERSION = "3.8"  
