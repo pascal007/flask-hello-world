@@ -1,5 +1,5 @@
 [build]
-  command = "pip install -r requirement.txt && python tela.py" 
+  command = "pip install -r requirements.txt && python app.py" 
   
 [build.environment]
   PYTHON_VERSION = "3.8"  
